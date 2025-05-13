@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AlbaraaAlmozaiqer , full-stack developer passionate about useful web apps.
+- 👀 I’m interested in ** full-stack development **.
+- 🌱 I’m currently working in clinic system.
+- ⚡ Skills: ** PHP / Laravel, HTML, CSS, JavaScript, Bootstrap, git & github **.
+- ⚡ Always learning and growing.
+- 👋 Email: barafahd24@gmail.com
